@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install --global --ignore-scripts @novamira/cli*)",
+      "Bash(npx --yes skills@1.7.0 add *)",
+      "Bash(novamira *)"
+    ]
+  }
+}
